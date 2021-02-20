@@ -30,6 +30,19 @@
 - HTML, CSS
 - Google Scripting
 
+## Software design and engineering project and skills
+
+
+
+## Algorithms and data structure project and skills
+
+
+
+## Databases project and skills
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
