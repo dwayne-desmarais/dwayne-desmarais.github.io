@@ -12,11 +12,18 @@
 	in a variety of technical settings.
 
 
-You can use the [editor on GitHub](https://github.com/dwayne-desmarais/dwayne-desmarais.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Skill sets:
+Critical thinking
+Advanced problem solving
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Language experience:
+Visual basic
+C, C++
+Java, javascript
+MySQL
+Python
+HTML, CSS
+Google Scripting
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
