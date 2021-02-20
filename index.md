@@ -30,22 +30,10 @@
 - HTML, CSS
 - Google Scripting
 
-# Software Design and Engineering
-## Project and Skills
-Project description:
-
-
-
-# Algorithms and Data Structures
-## Project and Skills
-Project description:
-
-
-# Databases
-## Project and Skills
-Project description:
-
-
+# Projects
+## [Software Design and Engineering](/index.md)
+## [Algorithms and Data Structures](/index.md)
+## [Databases](/index.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
