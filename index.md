@@ -30,16 +30,17 @@
 - HTML, CSS
 - Google Scripting
 
-## Software design and engineering project and skills
+# Software design and engineering project and skills
+Project description:
 
 
 
-## Algorithms and data structure project and skills
+# Algorithms and data structure project and skills
+Project description:
 
 
-
-## Databases project and skills
-
+# Databases project and skills
+Project description:
 
 
 
