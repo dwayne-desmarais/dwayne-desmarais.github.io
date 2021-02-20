@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# ePortfolio - Dwayne Desmarais
+## Computer Science Degree
+### Focusing on Software Development
 
 You can use the [editor on GitHub](https://github.com/dwayne-desmarais/dwayne-desmarais.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
