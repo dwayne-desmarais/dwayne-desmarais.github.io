@@ -14,21 +14,21 @@
 	front lines, handling customer inquiries in a variety of technical settings.
 
 ### Skill sets:
-Critical thinking
-Advanced problem solving
-Logical
-Team player
-Attention to detail
-Meticulous
+- Critical thinking
+- Advanced problem solving
+- Logical
+- Team player
+- Attention to detail
+- Meticulous
 
 ### Language experience:
-Visual basic
-C, C++
-Java, javascript
-MySQL
-Python
-HTML, CSS
-Google Scripting
+- Visual basic
+- C, C++
+- Java, javascript
+- MySQL
+- Python
+- HTML, CSS
+- Google Scripting
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
