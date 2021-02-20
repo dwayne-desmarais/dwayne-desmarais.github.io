@@ -1,6 +1,7 @@
-# ePortfolio - Dwayne Desmarais
-## Computer Science Degree
-### Focusing on Software Development
+    My name is Dwayne Desmarais and I have been working with computers since I was 10 years old.  My interest in this field came from my love of video games when I was young.  I began my studies in high school programming my TI-83 calculator with games and a Q-Basic class (GOTO commands for the win!).  I obtained an Associates degree in the software programming field in my early 20’s and by that time I had been programming as a hobby for over 7 years.  I was self taught in a derivative of the C language in my teen years and continued my studies of Visual Basic, Java, C++, Python, MySQL, JavaScript, HTML, CSS, and Google Scripting throughout my studies and working career.
+    
+	  This ePortfolio showcases some of my latest projects that I have worked on throughout my four year degree.  I have extensive knowledge working with databases and scripting languages both in school and in my career.  The majority of my career has been on the front lines, handling customer inquiries in a variety of technical settings.
+
 
 You can use the [editor on GitHub](https://github.com/dwayne-desmarais/dwayne-desmarais.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
