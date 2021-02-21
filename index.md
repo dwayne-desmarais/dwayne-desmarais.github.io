@@ -22,10 +22,10 @@
 ## [Code Review](/code_review)
 
 # Journals
-## one 
-## two
-## three
-## four
+## [Marketing With ePortfolios](/index.md)
+## [two](/index.md)
+## [three](/index.md)
+## [four](/index.md)
 
 ### Language experience:
 - Visual basic
