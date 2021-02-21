@@ -26,14 +26,7 @@
 ## three
 ## four
 
-### **Skill sets:
-- Critical thinking
-- Advanced problem solving
-- Logical
-- Team player
-- Attention to detail
-
-### **Language experience:
+### Language experience:
 - Visual basic
 - C, C++
 - Java, javascript
@@ -41,6 +34,14 @@
 - Python
 - HTML, CSS
 - Google Scripting
+
+### Skill sets:
+- Critical thinking
+- Advanced problem solving
+- Logical
+- Team player
+- Attention to detail
+
 
 
 
