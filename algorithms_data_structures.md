@@ -22,7 +22,7 @@ and create a menu system for selecting which data point to view details on.  (An
 Habitat)_
 
 # Project Files
-[Zoo Monitor](/zoomonitor.zip) (zip)
+[Zoo Monitor](/ZooMonitor.zip) (zip)
 
 _Note: This is the project before adding the Employee database, but containing the basic looping
 search function to create menu systems._
