@@ -25,7 +25,7 @@
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
 ## [Career Choice](/career_choice.md)
 ## [Computer Science Trends](/computer_science_trends.md)
-## [four](/index.md)
+## [Emerging Technology](/emerging_technology.md)
 
 # Work Related projects
 //FIXME These need to be organized and added here
