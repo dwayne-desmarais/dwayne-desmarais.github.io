@@ -23,7 +23,7 @@
 
 # BSCS Journal Entries
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
-## [Career Choice](/career_choice.md)
+## [Career Choice](/career_chioce.md)
 ## [Computer Science Trends](/computer_science_trends.md)
 ## [four](/index.md)
 
