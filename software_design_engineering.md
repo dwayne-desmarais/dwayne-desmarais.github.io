@@ -10,3 +10,6 @@ I decided an improvement upon this would be to allow the user to bypass the dayl
 
 ## Project Files
 - [Video Demonstration](/CS350_Final_Project/video
+- [Webpage Data Chart](/CS350_Final_Project/CS350_Final_Project.html)
+- [JSON Data File](/CS350_Final_Project/status.json)
+- 
