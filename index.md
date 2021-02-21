@@ -43,8 +43,8 @@
 - Team player
 - Attention to detail
 
-### Support or Contact
+### Contact Information
 - Dwayne Desmarais
-- 603-760-8734
-- dwayne.desmarais@gmail.com
+- (603) 760-8734
+- desmarais.dwayne@gmail.com
 - [Resume](/Dwayne-Desmarais.pdf) (pdf)
