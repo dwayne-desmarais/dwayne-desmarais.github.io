@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script type="text/javascript">
+window.onload = function () {
+var dataHumidity = [];
+var dataTemperature = [];
+var dataTime = [];
+var i = 0;
+$.getJSON("station.json", function(station) {
+$.each(station.readings, function(key, value){
+dataHumidity.push({x: i, y: parseInt(value.humidity)});
+dataTemperature.push({x: i, y: parseInt(value.temperature)});
+dataTime.push({x: i, y: parseFloat(value.time)});
+i++;
+});
+var chart = new CanvasJS.Chart("chartContainer",{
+title:{
+		text: "Weather Station Data"
+	},	
+	axisY: {
+		title: "Degrees / Percentage",
+		titleFontColor: "black",
+		lineColor: "black",
+		labelFontColor: "black",
+		tickColor: "black"
+	},
+	axisX: {
+		title: "Daily Reading Number"
+	},
+	toolTip: {
+		shared: true
+	},
+data: [{
+showInLegend: true,
+name: "Humidity (%)",
+color: "green",
+type: "line",
+dataPoints : dataHumidity
+},
+{
+showInLegend: true,
+name: "Temperature (F)",
+color: "blue",
+type: "line",
+dataPoints : dataTemperature
+}]
+});
+chart.render();
+});
+}
+</script>
+
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+</body>
+</html>
