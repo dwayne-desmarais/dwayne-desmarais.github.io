@@ -15,22 +15,6 @@
 	The majority of my career has been on the front lines, handling customer
 	inquiries in a variety of technical settings.
 
-### Skill sets:
-- Critical thinking
-- Advanced problem solving
-- Logical
-- Team player
-- Attention to detail
-
-### Language experience:
-- Visual basic
-- C, C++
-- Java, javascript
-- MySQL
-- Python
-- HTML, CSS
-- Google Scripting
-
 # Projects
 ## [Software Design and Engineering](/index.md)
 ## [Algorithms and Data Structures](/index.md)
@@ -41,6 +25,26 @@
 ## two
 ## three
 ## four
+
+### **Skill sets:
+- Critical thinking
+- Advanced problem solving
+- Logical
+- Team player
+- Attention to detail
+
+### **Language experience:
+- Visual basic
+- C, C++
+- Java, javascript
+- MySQL
+- Python
+- HTML, CSS
+- Google Scripting
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
