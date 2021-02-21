@@ -9,7 +9,7 @@
 
 ## Summary notes:
 ```markdown
-#Structure
+Structure
 - Does the code completely and correctly implement the design?
 	The purpose of this code was to create a simple menu system to maintain two small databases for a zoo.
 	One database for Animal data and another for Habitat data.  This code does address this request completely
@@ -49,7 +49,7 @@
 	Most of the program is simple in nature, some areas may benefit from a restructure, particularly the
 	menu generating code portion.
 
-## Documentation
+Documentation
 - Is the code clearly and adequately documented with an easy-to-maintain commenting style?
 	Documentation is well commented throughout the code and makes sense.  Some comments may
 	be unnecessary
@@ -57,7 +57,7 @@
 - Are all comments consistent with the code?
 	Comments are consistent throughout the code
 
-## Variables
+Variables
 - Are all variables properly defined with meaningful, consistent, and clear names?
 	Most of the variables have meaning for the code and are properly defined.  There was one instance where
 	'temp' was used instead of 'temperature' which could be confusing.   The variables may need to be reworked
@@ -69,7 +69,7 @@
 - Are there any redundant or unused variables?
 	There were no unused variables and no redunant variables were found	
 
-## Arithmetic Operations
+Arithmetic Operations
 - Does the code avoid comparing floating-point numbers for equality?
 	This code avoids comparing floating-point numbers for equality
 
@@ -82,7 +82,7 @@
 - Are divisors tested for zero or noise?
 	Divisors tested with zero are present
 
-## Loops and Branches
+Loops and Branches
 - Are all loops, branches, and logic constructs complete, correct, and properly nested?
 	Loops and branches are correctly nested
 
@@ -108,7 +108,7 @@
 - Does the code in the loop avoid manipulating the index variable or using it upon exit from the loop?
 	Loops do not appear to maniuplate the index variable or use it upon exiting the loop
 
-## Defensive Programming
+Defensive Programming
 - Are indexes, pointers, and subscripts tested against array, record, or file bounds?
 	File bounds are addressed and tested in this code
 
