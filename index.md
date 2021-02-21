@@ -16,8 +16,8 @@ The majority of my career has been on the front lines, handling customer
 inquiries in a variety of technical settings.
 
 # Computer Science Degree Projects
-## [Software Design and Engineering](/index.md)
-## [Algorithms and Data Structures](/index.md)
+## [Software Design & Engineering](/software_design_engineering.md)
+## [Algorithms & Data Structures](/index.md)
 ## [Databases](/index.md)
 ## [Code Review](/code_review)
 
