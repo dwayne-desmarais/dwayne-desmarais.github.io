@@ -1,14 +1,14 @@
-### Code Review
+# Code Review
 
 ## Video segments
-# (5 minutes each)
+### (5 minutes each)
 - [Code Review 1](/index.md)
 - [Code Review 2](/index.md)
 - [Code Review 3](/index.md)
 - [Code Review 4](/index.md)
 
 ## Summary notes:
-'''
+```markdown
 Structure
 ❏ Does the code completely and correctly implement the design?
 	The purpose of this code was to create a simple menu system to maintain two small databases for a zoo.
@@ -132,4 +132,4 @@ Defensive Programming
 
 ❏ Are all files and devices left in the correct state upon program termination?
 	Files are closed prior to terminating the program
-  '''
+```
