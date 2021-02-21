@@ -1,11 +1,12 @@
 # Code Review
+[Home](/index.md)
 
 ## Video segments
 (5 minutes each)
-- [Code Review 1](/index.md)
-- [Code Review 2](/index.md)
-- [Code Review 3](/index.md)
-- [Code Review 4](/index.md)
+- [Code Review 1](/Code_Review_Part_1.mp4)
+- [Code Review 2](/Code_Review_Part_2.mp4)
+- [Code Review 3](/Code_Review_Part_3.mp4)
+- [Code Review 4](/Code_Review_Part_4.mp4)
 
 ## Summary notes:
 ```markdown
