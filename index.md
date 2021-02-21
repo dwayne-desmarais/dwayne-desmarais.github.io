@@ -27,7 +27,7 @@
 ## [Computer Science Trends](/computer_science_trends.md)
 ## [Emerging Technology](/emerging_technology.md)
 
-# Work Related projects
+# Work Related Projects
 //FIXME These need to be organized and added here
 
 ### Language Experience:
