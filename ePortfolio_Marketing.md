@@ -1,4 +1,4 @@
-# Marketing with ePortfolio
+# Marketing With ePortfolio
 [Home](/index.md)
 
 ![Image](/ePortfolio_image.jpg)
