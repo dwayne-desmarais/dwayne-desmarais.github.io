@@ -1,6 +1,8 @@
 # Computer Science Trends
 [Home](/index.md)
 
+![Image](/computer_science_trends.png)
+
 The first trend I researched was about standardizing the web.  The trend shows that the web is 
 becoming more standardized and goes on to discuss OpenAPI and other API standards.  This trend 
 will greatly improve the ability to integrate different programs and resources more easily.  The
