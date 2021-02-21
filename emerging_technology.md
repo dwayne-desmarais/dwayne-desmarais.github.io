@@ -2,6 +2,8 @@
 
 [Home](/index.md)
 
+![Image](/emerging_technology.jpg)
+
 Nanobots are a particular technology on the rise lately.  These are most often heard of when
 used in medicine.  Nanobots are tiny robots that are typically between 50-100 nanometers wide
 and are often used to carry a drug targeting a particular disease within the body.  They
