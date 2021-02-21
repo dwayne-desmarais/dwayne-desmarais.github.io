@@ -1,6 +1,8 @@
 # Career Choice
 [Home](/index.md)
 
+![Image](/career_choices.jpg)
+
 When I first started this degree, I wasn’t sure what I wanted to do beyond something with computer 
 programming.  I am still not certain what I wish to do but I have narrowed down my search considerably.  
 There are a number of things I was introduced to during my degree that have caught my eye.  I always 
