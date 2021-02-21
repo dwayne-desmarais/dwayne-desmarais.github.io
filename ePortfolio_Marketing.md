@@ -3,7 +3,6 @@
 
 ![Image](/ePortfolio_image.jpg)
 
-```markdown
 Creating an ePortfolio as a means of promoting myself in the job market is an 
 excellent first step in showing some of my skill sets. Employers in many fields
 ask for demonstrations of your abilities, particularly within the software 
@@ -23,4 +22,3 @@ If these are not options, you can also provide password protected items and/or
 only offer the ePortfolio upon request for certain jobs.  The ePortfolio is 
 probably not the best place for something extensive or potential lifes’ work 
 type of projects, so keeping the content minimal, but valid is the best practice.
-```
