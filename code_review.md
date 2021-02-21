@@ -1,6 +1,7 @@
 # Code Review
 
-## Video segments ### (5 minutes each)
+## Video segments
+(5 minutes each)
 - [Code Review 1](/index.md)
 - [Code Review 2](/index.md)
 - [Code Review 3](/index.md)
