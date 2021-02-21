@@ -17,8 +17,8 @@ inquiries in a variety of technical settings.
 
 # Computer Science Degree Projects
 ## [Software Design & Engineering](/software_design_engineering.md)
-## [Algorithms & Data Structures](/index.md)
-## [Databases](/index.md)
+## [Algorithms & Data Structures](/algorithms_data_structures.md)
+## [Databases](/database_project.md)
 ## [Code Review](/code_review)
 
 # Computer Science Journal Entries
