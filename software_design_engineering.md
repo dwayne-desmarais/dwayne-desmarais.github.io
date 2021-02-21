@@ -9,7 +9,6 @@ I decided an improvement upon this would be to allow the user to bypass the dayl
 	Future iterations of this program would be improved with additional error checking and perhaps a menu system for the user to input options for monitoring.  The initial design goals were met and the program functions now with the option of entering a duration or using the original set parameters designed.
 
 ## Project Files
-- [Video Demonstration](/CS350_Final_Project/CS350_Final_Project_video.zip) (zip)
 - [Data Chart Example Output](/CS350_Final_Project/CS350_Final_Project_screenshot)
 - [Webpage Data Chart File](/CS350_Final_Project/CS350_Final_Project.html)
 - [JSON Data File](/CS350_Final_Project/station.json)
