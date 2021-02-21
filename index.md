@@ -21,7 +21,7 @@
 ## [Databases](/index.md)
 ## [Code Review](/code_review)
 
-# BSCS Journal entries
+# BSCS Journal Entries
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
 ## [Career Choice](/career_choice.md)
 ## [Computer Science Trends](/computer_science_trends.md)
@@ -30,7 +30,7 @@
 # Work Related projects
 //FIXME These need to be organized and added here
 
-### Language experience:
+### Language Experience:
 - Visual basic (1 year school/work experience, multiple projects)
 - C, C++ (5+ years hobby/school/work experience)
 - Java, javascript (1-2 years schoole experience)
@@ -39,7 +39,7 @@
 - HTML, CSS (self taught)
 - Google Scripting (self taught, 1 years experience, multiple projects)
 
-### Skill sets:
+### Skill & Experience:
 - Critical thinking
 - Advanced problem solving
 - Logical
@@ -49,7 +49,7 @@
 - AWS (JSON/Xcode, limited experience)
 - Multiple API projects/experience (FreshDesk)
 
-# Contact information
+# Contact Information
 - Dwayne Desmarais
 - (603) 760-8734
 - desmarais.dwayne@gmail.com
