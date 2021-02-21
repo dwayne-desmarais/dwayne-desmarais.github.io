@@ -44,7 +44,7 @@
 - Attention to detail
 
 ### Support or Contact
-**Dwayne Desmarais**
-603-760-8734
-dwayne.desmarais@gmail.com
-[Resume](/resume.pdf) (pdf)
+- Dwayne Desmarais
+- 603-760-8734
+- dwayne.desmarais@gmail.com
+- [Resume](/Dwayne-Desmarais.pdf) (pdf)
