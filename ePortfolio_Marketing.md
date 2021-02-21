@@ -1,7 +1,7 @@
 # Marketing with ePortfolio
 [Home](/index.md)
 
-![Image](/ePortfolio_image)
+![Image](/ePortfolio_image.jpg)
 
 ```markdown
 Creating an ePortfolio as a means of promoting myself in the job market is an excellent first step in 
