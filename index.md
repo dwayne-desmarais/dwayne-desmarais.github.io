@@ -15,26 +15,29 @@
 	The majority of my career has been on the front lines, handling customer
 	inquiries in a variety of technical settings.
 
-# Projects
+# BSCS Degree Projects
 ## [Software Design and Engineering](/index.md)
 ## [Algorithms and Data Structures](/index.md)
 ## [Databases](/index.md)
 ## [Code Review](/code_review)
 
-# Journals
+# BSCS Journal entries
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
 ## [Career Choice](/career_choice.md)
 ## [Computer Science Trends](/computer_science_trends.md)
 ## [four](/index.md)
 
+# Work Related projects
+//FIXME These need to be organized and added here
+
 ### Language experience:
-- Visual basic
-- C, C++
-- Java, javascript
-- MySQL
-- Python
-- HTML, CSS
-- Google Scripting
+- Visual basic (1 year school/work experience, multiple projects)
+- C, C++ (5+ years hobby/school/work experience)
+- Java, javascript (1-2 years schoole experience)
+- MySQL (1 year school experience)
+- Python (1-2 years experience, multiple projects)
+- HTML, CSS (self taught)
+- Google Scripting (self taught, 1 years experience, multiple projects)
 
 ### Skill sets:
 - Critical thinking
@@ -42,8 +45,11 @@
 - Logical
 - Team player
 - Attention to detail
+- Apple Developer / Google Developer
+- AWS (JSON/Xcode, limited experience)
+- Multiple API projects/experience (FreshDesk)
 
-### Contact Information
+# Contact information
 - Dwayne Desmarais
 - (603) 760-8734
 - desmarais.dwayne@gmail.com
