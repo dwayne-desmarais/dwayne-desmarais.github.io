@@ -23,7 +23,7 @@
 
 # Journals
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
-## [two](/index.md)
+## [Career Choice](/career_choice.md)
 ## [three](/index.md)
 ## [four](/index.md)
 
