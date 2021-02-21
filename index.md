@@ -22,7 +22,7 @@
 ## [Code Review](/code_review)
 
 # Journals
-## [Marketing With ePortfolios](/ePortfolio_Marketing.docx)
+## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
 ## [two](/index.md)
 ## [three](/index.md)
 ## [four](/index.md)
