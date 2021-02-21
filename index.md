@@ -15,13 +15,13 @@
 	The majority of my career has been on the front lines, handling customer
 	inquiries in a variety of technical settings.
 
-# BSCS Degree Projects
+# Computer Science Degree Projects
 ## [Software Design and Engineering](/index.md)
 ## [Algorithms and Data Structures](/index.md)
 ## [Databases](/index.md)
 ## [Code Review](/code_review)
 
-# BSCS Journal Entries
+# Computer Science Journal Entries
 ## [Marketing With ePortfolios](/ePortfolio_Marketing.md)
 ## [Career Choice](/career_choice.md)
 ## [Computer Science Trends](/computer_science_trends.md)
@@ -49,7 +49,7 @@
 - AWS (JSON/Xcode, limited experience)
 - Multiple API projects/experience (FreshDesk)
 
-# Contact Information
+### Contact Information
 - Dwayne Desmarais
 - (603) 760-8734
 - desmarais.dwayne@gmail.com
