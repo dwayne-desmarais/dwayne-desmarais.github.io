@@ -33,7 +33,7 @@ inquiries in a variety of technical settings.
 ### Language Experience:
 - Visual basic (1 year school/work experience, multiple projects)
 - C, C++ (5+ years hobby/school/work experience)
-- Java, javascript (1-2 years schoole experience)
+- Java, javascript (1-2 years school experience)
 - MySQL (1 year school experience)
 - Python (1-2 years experience, multiple projects)
 - HTML, CSS (self taught)
