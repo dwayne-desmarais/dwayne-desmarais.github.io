@@ -3,8 +3,8 @@ since I was 10 years old. My interest in this field came from my love
 of video games when I was young.  I began my studies in high school
 programming my TI-83 calculator with games and a Q-Basic class (GOTO
 commands for the win!).  I obtained an Associates degree in the software
-programming field in my early 20’s and by that time I had been program-
--ming as a hobby for over 7 years.  I was self taught in a derivative of
+programming field in my early 20’s and by that time I had been programming 
+as a hobby for over 7 years.  I was self taught in a derivative of
 the C language in my teen years and continued my studies of Visual Basic,
 Java, C++, Python, MySQL, JavaScript, HTML, CSS, and Google Scripting
 throughout my studies and working career.
