@@ -28,8 +28,8 @@ inquiries in a variety of technical settings.
 ## [Emerging Technology](/emerging_technology.md)
 
 # Work Related Projects
-## [Manager Dashboard](/algorithms_data_structures.md)
-## [Shift Select Script](/Manager_Dashboard_project.pdf)
+## [Manager Dashboard](/Manager_Dashboard_project.pdf)
+## [Shift Select Script](/Shift_Select_Script)
 ## [SQL Project](/SQL_project)
 
 ### Language Experience:
