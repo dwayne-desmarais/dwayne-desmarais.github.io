@@ -29,8 +29,8 @@ inquiries in a variety of technical settings.
 
 # Work Related Projects
 ## [Manager Dashboard](/algorithms_data_structures.md)
-## [Shift Select Script](/SQL project)
-## [SQL Project](/code_review)
+## [Shift Select Script](/)
+## [SQL Project](/SQL_project)
 
 ### Language Experience:
 - Visual basic (1 year school/work experience, multiple projects)
