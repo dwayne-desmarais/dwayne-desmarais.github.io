@@ -29,15 +29,16 @@ inquiries in a variety of technical settings.
 
 # Work Related Projects
 ## [Manager Dashboard](/Manager_Dashboard_project.pdf)
-## [Shift Select Script](/Shift_Select_Script.xlsm)
-## [SQL Project](/SQL_project)
+## [Shift Select Script](/Shift_Select_Script.xlsm) (.xlsm file)
+## [SQL Project](/SQL_project) (.txt file)
 
 ### Language Experience:
 - Visual basic (1 year school/work experience, multiple projects)
 - C, C++ (5+ years hobby/school/work experience)
 - Java, javascript (1-## [Algorithms & Data Structures](/algorithms_data_structures.md)
+
 ## [Databases](/database_project.md)
-## [Code Review](/code_review)2 years school experience)
+## [Code Review](/code_review) (2 years school experience)
 - MySQL (1 year school experience)
 - Python (1-2 years experience, multiple projects)
 - HTML, CSS (self taught)
