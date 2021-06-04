@@ -1,0 +1,116 @@
+# Final Project - Task 1
+USE messaging;
+INSERT INTO person (first_name, last_name)
+VALUES ("Dwayne", "Desmarais");
+SELECT * FROM person;
+	# Final Project - Task 2
+ALTER TABLE messaging.person ADD age INT(3) UNSIGNED;
+SELECT * FROM person;
+	# Final Project - Task 3
+UPDATE person
+SET age = 39
+WHERE person.first_name = "Dwayne" AND person.last_name = "Desmarais";
+SELECT * FROM person;
+	# Final Project - Task 4
+DELETE FROM person
+WHERE first_name = “Diana” AND last_name = “Taurasi”;
+SELECT * FROM person;
+	# Final Project - Task 5
+ALTER TABLE messaging.contact_list ADD favorite VARCHAR(10);
+SHOW COLUMNS FROM contact_list;
+	# Final Project - Task 6
+UPDATE contact_list
+SET favorite = "y"
+WHERE contact_id = 1;
+SELECT * FROM contact_list;
+	# Final Project - Task 7
+UPDATE contact_list
+SET favorite = “n”
+WHERE contact_id <> 1;
+SELECT * FROM contact_list;
+	# Final Project - Task 8
+INSERT INTO contact_list (person_id, contact_id, favorite)
+VALUES
+(6,7,”y”),
+(5,7,”n”),
+(4,7,”n”);
+SELECT * FROM contact_list;
+	# Final Project - Task 9
+CREATE TABLE image (
+image_id INT(8) NOT NULL AUTO_INCREMENT,
+image_name VARCHAR(50) NOT NULL,
+image_location VARCHAR(250) NOT NULL,
+PRIMARY KEY (image_id)
+);
+SHOW COLUMNS FROM image;
+	# Final Project - Task 10
+CREATE TABLE message_image (
+message_id INT(8) NOT NULL,
+image_id INT(8) NOT NULL,
+PRIMARY KEY (message_id, image_id)
+);
+SHOW COLUMNS FROM message_image;
+	# Final Project - Task 11
+INSERT INTO image (image_name, image_location)
+VALUES
+(“Ralph”, “Desktop Folder”),
+(“Fluffy”, “Pets Folder”),
+(“San Fran”, “Vacation Folder”),
+(“Snake_1”, “Vacation Folder”),
+(“Tennessee”, “Family-Friends Folder”);
+SELECT * FROM image;
+	# Final Project - Task 12
+INSERT INTO message_image (message_id, image_id)
+VALUES
+(1,3),
+(2,2),
+(3,4),
+(5,1),
+(5,5);
+SELECT * FROM message_image;
+	# Final Project - Task 13
+SELECT
+s.first_name AS "Sender's first name",
+s.last_name AS "Sender's last name",
+r.first_name AS "Receiver's first name",
+r.last_name AS "Receiver's last name",
+m.message_id AS "Message ID",
+m.message AS "Message",
+m.send_datetime AS "Message Timestamp"
+FROM
+message m,
+person s,
+person r
+WHERE
+m.sender_id = 1 AND
+m.receiver_id <> 1 AND
+m.sender_id = s.person_id AND
+m.receiver_id = r.person_id;
+	# Final Project - Task 14
+SELECT
+COUNT(message_id) AS "Count of messages",
+p.person_id AS "Person ID",
+p.first_name AS "First Name",
+p.last_name AS "Last Name"
+FROM
+person p,
+message m
+WHERE
+m.sender_id = p.person_id AND
+m.receiver_id <> p.person_id
+GROUP BY m.sender_id;
+	# Final Project - Task 15
+SELECT
+m.message_id AS "Message ID",
+m.message AS "Message",
+m.send_datetime AS "Message Timestamp",
+i.image_name AS "First Image Name",
+i.image_location AS "First Image Location"
+FROM
+message m,
+image i
+INNER JOIN message_image mi ON i.image_id = mi.image_id
+WHERE
+i.image_id > 0 AND
+m.message_id = mi.message_id
+GROUP BY m.message_id;
