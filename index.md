@@ -29,8 +29,8 @@ inquiries in a variety of technical settings.
 
 # Work Related Projects
 ## [Manager Dashboard](/Manager_Dashboard_project.pdf)
-## [Shift Select Script](/Shift_Select_Script.xlsm) (.xlsm file)
-## [SQL Project](/SQL_project) (.txt file)
+## [Shift Select Script](/Shift_Select_Script.xlsm) ###(.xlsm file)
+## [SQL Project](/SQL_project) ###(.txt file)
 
 ### Language Experience:
 - Visual basic (1 year school/work experience, multiple projects)
