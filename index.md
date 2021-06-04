@@ -29,7 +29,7 @@ inquiries in a variety of technical settings.
 
 # Work Related Projects
 ## [Manager Dashboard](/algorithms_data_structures.md)
-## [Shift Select Script](/database_project.md)
+## [Shift Select Script](/SQL project)
 ## [SQL Project](/code_review)
 
 ### Language Experience:
