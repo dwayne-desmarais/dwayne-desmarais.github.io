@@ -55,4 +55,4 @@ inquiries in a variety of technical settings.
 - Dwayne Desmarais
 - (603) 760-8734
 - desmarais.dwayne@gmail.com
-- [Resume](/Dwayne-Desmarais.pdf) (pdf)
+- [Resume](/Dwayne-Desmarais-Revised.docx)
