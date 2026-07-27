@@ -1,1 +1,142 @@
+```css
+/* Base */
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0f172a;
+    color: #e5e7eb;
+    line-height: 1.6;
+}
+
+
+/* Navigation */
+
+header {
+    padding: 25px 8%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+nav a {
+    color: #cbd5e1;
+    text-decoration: none;
+}
+
+
+/* Hero */
+
+.hero {
+    min-height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    padding: 5% 8%;
+}
+
+
+.hero-content {
+    max-width: 700px;
+}
+
+
+.eyebrow {
+    color: #38bdf8;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.15;
+}
+
+
+.hero-description {
+    font-size: 1.2rem;
+    color: #cbd5e1;
+}
+
+
+.hero-buttons {
+    margin-top: 30px;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 12px 22px;
+    margin-right: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+
+.primary {
+    background: #38bdf8;
+    color: #0f172a;
+}
+
+
+.secondary {
+    border: 1px solid #64748b;
+    color: white;
+}
+
+
+/* Skill Card */
+
+.hero-card {
+    background: #1e293b;
+    padding: 30px;
+    border-radius: 15px;
+    min-width: 300px;
+}
+
+
+.hero-card li {
+    margin-bottom: 10px;
+}
+
+
+/* Highlights */
+
+#highlights {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px 8%;
+}
+
+
+.highlight {
+    text-align: center;
+}
+
+
+.highlight strong {
+    display: block;
+    font-size: 2rem;
+    color: #38bdf8;
+}
