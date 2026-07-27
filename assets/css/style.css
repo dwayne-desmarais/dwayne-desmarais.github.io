@@ -1,4 +1,3 @@
-```css
 /* Base */
 
 * {
@@ -175,4 +174,58 @@ h1 {
 
 .skill-card li {
     margin-bottom: 8px;
+}
+
+/* Professional Experience */
+
+.section-intro {
+    max-width: 800px;
+    color: #cbd5e1;
+    margin-bottom: 40px;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.timeline-item {
+    background: #1e293b;
+    border-left: 5px solid #38bdf8;
+    padding: 24px 28px;
+    border-radius: 10px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.timeline-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+}
+
+.timeline-header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+}
+
+.timeline-header h3 {
+    margin: 0;
+    color: #ffffff;
+}
+
+.timeline-header span {
+    color: #94a3b8;
+    font-size: 0.95rem;
+}
+
+.timeline-item ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.timeline-item li {
+    margin-bottom: 10px;
+    color: #d1d5db;
 }
